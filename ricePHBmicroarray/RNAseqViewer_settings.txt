@@ -1,0 +1,9 @@
+/Users/hiro/RNAseqViewer2forMac/tamakiarray_gene_RNAseqViewer2.txt
+/Users/hiro/Desktop/Taxol/220320salmon/Trinity_merge2_nr95.fasta
+/Users/hiro/Desktop/Taxol/220320salmon/Trinity_merge2_nr95
+1	0	
+2	3	volcano
+4	5	
+1	4	
+1	5	
+10	12	

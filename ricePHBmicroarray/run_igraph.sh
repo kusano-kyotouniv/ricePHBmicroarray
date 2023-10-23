@@ -1,0 +1,9 @@
+Rscript igraph_molfunc.r
+Rscript igraph_molfunc_orphan.r
+Rscript igraph_molfunc_rare.r
+Rscript igraph_celcomp.r
+Rscript igraph_celcomp_orphan.r
+Rscript igraph_celcomp_rare.r
+Rscript igraph_bioproc.r
+Rscript igraph_bioproc_orphan.r
+Rscript igraph_bioproc_rare.r
